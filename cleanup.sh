@@ -1,5 +1,6 @@
 #cleanup
 #root needed
+#ver 0.1
 
 cd /var/log
 cat /dev/null > messages
